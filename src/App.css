@@ -1,0 +1,45 @@
+.card-container{
+
+    display:flex;
+
+
+
+}
+    
+.card{
+
+    margin-left: 100px;
+    border-radius: 10px solid black;
+    height: 300px;
+    margin-top: 100px;
+    box-shadow: 0 2px 3px black;
+    margin-right: auto;
+
+    
+}
+
+.container-fluid{
+
+    height:auto;
+    
+}
+
+.newscontainer{
+
+    display: flex;
+    flex-direction: row;  
+
+}
+
+.home-container {
+
+   align-items: center;
+   position: relative;
+
+}
+
+.home-container .textbox{
+
+    background-position:center;
+    top:100vh;
+}
